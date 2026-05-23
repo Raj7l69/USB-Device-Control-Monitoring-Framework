@@ -1,0 +1,20 @@
+{
+  "devices": [
+    {
+      "vendor_id": "SANDISK",
+      "product_id": "CRUZER_BLADE",
+      "serial_number": "03028801060222235121",
+      "hardware_fingerprint": "00da70f76ec0c89a62ad188033e8c6ed5ca74c602a415033d7e5c8b1b4d4a1d9",
+      "volume_name": "KALI LINUX",
+      "description": "My SanDisk Cruzer Blade — Authorized"
+    },
+    {
+      "vendor_id": "ACER",
+      "product_id": "USB_FLASH_DRIVE",
+      "serial_number": "2305054802266º",
+      "hardware_fingerprint": "1b2cbd18e54ca293a1f38d9d6f25e13f67566a1b792de2876ae1d828262fbf84",
+      "volume_name": "USB 1",
+      "description": "Acer USB Flash Drive — Authorized"
+    }
+  ]
+}
