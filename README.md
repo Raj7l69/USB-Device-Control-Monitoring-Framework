@@ -214,5 +214,5 @@ The file auditor classifies every transfer into one of three risk levels:
 
 ## 👤 Author
 
-**Rajen** — Blue Team / Endpoint Security Internship Project  
+**Rajendra Singh** — Blue Team / Endpoint Security Internship Project  
 Focus Areas: Insider Threat Prevention · Data Loss Prevention (DLP) · USB Device Control
